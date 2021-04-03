@@ -1,0 +1,9 @@
+FactionsUUID:
+  #Featherboard Scoreboard when player has faction.
+  HasFaction: "HasFaction"
+  #Featherboard Scoreboard when player has no faction.
+  NoFaction: "NoFaction"
+
+AuthMe:
+  NotAuthenticated: "NotAuthenticated"
+  TicksToExecute: "0"
