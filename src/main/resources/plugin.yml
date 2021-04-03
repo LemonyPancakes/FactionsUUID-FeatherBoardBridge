@@ -1,0 +1,8 @@
+name: FactionsUUID-FeatherboardBridge
+version: ${project.version}
+main: me.swagpancakes.factionsuuid.featherboardbridge.Main
+api-version: 1.16
+depend: [ FeatherBoard, Factions ]
+softdepend: [ AuthMe ]
+authors: [ SwagPancakes ]
+description: Bridges Featherboard and FactionsUUID
